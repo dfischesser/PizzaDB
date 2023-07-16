@@ -1,0 +1,20 @@
+INSERT INTO CustomizeOptions (customize_option, is_multi_select, option_order, created_by, created_on, modified_by, modified_on, active)
+VALUES
+	('Size',				0, 1, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Toppings',			1, 2, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Two Liter Beverages',	1, 4, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('12 oz Cans',			0, 5, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1), 
+	('Fountain',			0, 5, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1), 
+	('Meat',				0, 6, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Customize',			1, 7, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Dipping Sauce',		0, 8, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Wing Sauce',			0, 9, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Drinks',				0, 10, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Side Salad',			0, 11, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('NY Cheesecake',		0, 12, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Cannoli',				0, 13, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Ice Cream',			0, 14, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Amount',				0, 15, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Fries',				0, 16, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('Dressing',			0, 17, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1),
+	('House Salad',			0, 18, 'Dan', GETUTCDATE(), 'Dan', GETUTCDATE(), 1)
