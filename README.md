@@ -1,5 +1,7 @@
 # PizzaDB
-Azure SQL DB for Dan's Pizza
+Azure SQL DB for Dan's Pizza. This contains the scripts used to create the database for Dan's Pizza. The front-end and back-end repositories are below:
+- [Dan's Pizza](https://github.com/dfischesser/danspizza)
+- [PizzaDB](https://github.com/dfischesser/PizzaDB)
 
 Main Data Storage Requirements:
 - Menu Data
